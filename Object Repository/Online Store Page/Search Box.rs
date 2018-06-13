@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search Box</name>
+   <tag></tag>
+   <elementGuidId>94b11abd-9675-49f5-a7dd-afd2956d34bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//eproc-spotlight/div[2]/div/div/div[2]/div/eproc-main-search/div[1]/input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-spotlight/div[2]/div/div/div[2]/div/eproc-main-search/div[1]/input</value>
+   </webElementProperties>
+</WebElementEntity>

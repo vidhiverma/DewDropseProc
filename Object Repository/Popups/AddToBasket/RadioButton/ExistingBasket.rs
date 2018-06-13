@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ExistingBasket</name>
+   <tag></tag>
+   <elementGuidId>fca2be8a-c8a6-469f-9ba5-27b70c095c39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[1]/label[1]/input</value>
+   </webElementProperties>
+</WebElementEntity>

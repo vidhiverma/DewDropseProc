@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BasketNameHyperlink</name>
+   <tag></tag>
+   <elementGuidId>a356105c-3101-4c9a-88ef-018c0dcfd6bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//eproc-basket-listing/div/dew-tabset/div/div[2]/div/dew-tab[1]/dew-row/dew-col[3]/eproc-basket-card/dew-card/dew-card-body/dew-flex/dew-flex-item[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-basket-listing/div/dew-tabset/div/div[2]/div/dew-tab[1]/dew-row/dew-col[3]/eproc-basket-card/dew-card/dew-card-body/dew-flex/dew-flex-item[1]/span</value>
+   </webElementProperties>
+</WebElementEntity>

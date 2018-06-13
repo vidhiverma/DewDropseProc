@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BasketItemChceckBox_b</name>
+   <tag></tag>
+   <elementGuidId>c9cd4e71-32ed-4841-8004-5fd2afd16303</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//dew-block/dew-row/dew-col[3]/eproc-product-card/dew-card/dew-row/dew-col[1]/div</value>
+   </webElementProperties>
+</WebElementEntity>

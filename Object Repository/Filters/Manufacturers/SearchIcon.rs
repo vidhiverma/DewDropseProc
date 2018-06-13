@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchIcon</name>
+   <tag></tag>
+   <elementGuidId>839f0ef4-2cc7-4aa3-b324-210da8a4bc0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-search-results/div/dew-row/dew-col[1]/dew-collapse[1]/div[2]/eproc-value-filter/div/dew-icon</value>
+   </webElementProperties>
+</WebElementEntity>

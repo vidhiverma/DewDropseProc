@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FavouriteIcon</name>
+   <tag></tag>
+   <elementGuidId>db85e72d-9d2f-466c-9b12-064142897160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-search-results/div/dew-row/dew-col[2]/dew-tabset/div/div[2]/div/dew-tab[1]/dew-flex/dew-flex-item/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[1]/dew-col[2]/div/dew-icon</value>
+   </webElementProperties>
+</WebElementEntity>

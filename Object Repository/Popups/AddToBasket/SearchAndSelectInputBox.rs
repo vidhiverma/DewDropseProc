@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchAndSelectInputBox</name>
+   <tag></tag>
+   <elementGuidId>0065fa63-2827-438b-8e76-f62f5923cd8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[2]/div/dew-typeahead/div/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

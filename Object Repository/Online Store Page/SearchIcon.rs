@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchIcon</name>
+   <tag></tag>
+   <elementGuidId>4727838e-358b-4e48-9d72-d9d353cb1b1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-spotlight/div[2]/div/div/div[2]/div/eproc-main-search/div[1]/div/span/dew-icon</value>
+   </webElementProperties>
+</WebElementEntity>

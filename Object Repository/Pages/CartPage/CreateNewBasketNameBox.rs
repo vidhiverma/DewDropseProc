@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateNewBasketNameBox</name>
+   <tag></tag>
+   <elementGuidId>bfa33db7-3032-4cf4-a43e-0769848976e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-cart-items/eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[2]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

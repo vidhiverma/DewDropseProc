@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUpMessageText</name>
+   <tag></tag>
+   <elementGuidId>0c2ace09-9e9d-4ae5-890f-2915fd8c2b1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-cart-items/dew-modal[2]/div/div/div[2]/dew-modal-body/dew-row/dew-col/p</value>
+   </webElementProperties>
+</WebElementEntity>

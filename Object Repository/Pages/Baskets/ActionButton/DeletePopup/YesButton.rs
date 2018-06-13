@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>YesButton</name>
+   <tag></tag>
+   <elementGuidId>4b1a3d55-cbed-465e-93a7-14f7f47a3f33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//dew-modal[1]/div/div/div[3]/dew-modal-footer/dew-btn[2]/button</value>
+   </webElementProperties>
+</WebElementEntity>

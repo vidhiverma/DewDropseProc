@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BaketNameInputBox</name>
+   <tag></tag>
+   <elementGuidId>5cb3d774-b27c-43a4-b9da-91023fb7875e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[2]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

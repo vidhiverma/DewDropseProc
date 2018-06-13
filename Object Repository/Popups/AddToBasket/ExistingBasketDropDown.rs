@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ExistingBasketDropDown</name>
+   <tag></tag>
+   <elementGuidId>cae93a9d-ca4f-4d77-9c7e-41c951e633b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[2]/div/dew-typeahead/div/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[2]/div/dew-typeahead/div/div[2]/select</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DeleteSingleItem</name>
+   <tag></tag>
+   <elementGuidId>c510fdc2-ed3f-46b9-81c6-524b8e13a41f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-cart-items/div/dew-card/table/tbody/tr[1]/td[9]/dew-icon</value>
+   </webElementProperties>
+</WebElementEntity>

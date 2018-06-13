@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddToBasketButton</name>
+   <tag></tag>
+   <elementGuidId>beef7ce3-924b-4865-b8d5-cece9442bf5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-cart-items/eproc-add-to-basket-modal/dew-modal/div/div/div[3]/dew-modal-footer/dew-btn/button</value>
+   </webElementProperties>
+</WebElementEntity>

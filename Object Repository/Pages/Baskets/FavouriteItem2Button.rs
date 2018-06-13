@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FavouriteItem2Button</name>
+   <tag></tag>
+   <elementGuidId>537c001b-8f44-4f87-aab1-3bc370055eb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-basket-contents/div/dew-block/dew-row[1]/dew-col[2]/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[1]/dew-col[2]/div/dew-icon</value>
+   </webElementProperties>
+</WebElementEntity>

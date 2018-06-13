@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddToCartButton</name>
+   <tag></tag>
+   <elementGuidId>54bc6d35-bca0-46f3-8b70-6d79084d7761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-basket-listing/div/dew-tabset/div/div[2]/div/dew-tab[3]/dew-row/dew-col[1]/eproc-basket-card/dew-card/dew-card-body/dew-row[3]/dew-btn/button</value>
+   </webElementProperties>
+</WebElementEntity>

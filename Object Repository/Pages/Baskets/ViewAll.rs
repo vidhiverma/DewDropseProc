@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ViewAll</name>
+   <tag></tag>
+   <elementGuidId>9275655a-ad97-4d5b-a544-889f9c529e8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-online-store/dew-tabset/div/div[2]/div/dew-tab[6]/dew-section/dew-flex/dew-flex-item[2]/dew-section-header/dew-btn[3]/button</value>
+   </webElementProperties>
+</WebElementEntity>

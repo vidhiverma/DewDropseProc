@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateRequest</name>
+   <tag></tag>
+   <elementGuidId>6b78c23b-bb39-43c1-93a2-779cba7100c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-online-store/eproc-spotlight/div[2]/div/div/div[2]/div/eproc-main-search/div[2]/p</value>
+   </webElementProperties>
+</WebElementEntity>
